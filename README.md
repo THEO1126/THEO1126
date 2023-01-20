@@ -62,11 +62,13 @@ Here are some ideas to get you started:
 <h3 align="center"> 🎯 Metrics </h3>
 <div align="center"> <img src="https://metrics.lecoq.io/THEO-1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-<h3 align="center"> 🔶GitHub Stats Card </h3>
-<div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=THEO-1126&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<h3 align="center"> 📝 Most used languages </h3>
-<div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEO-1126&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<h3 align="center"> 🔶GitHub Stats Card && 📝 Most used languages </h3>
+<!-- GitHub 数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=THEO-1126&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=THEO-1126&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div> 
+</div>
 
 <h3 align="center"> 🏅 Github Profile Trophy </h3>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=THEO-1126" /> </div>
