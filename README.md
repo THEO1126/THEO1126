@@ -1,3 +1,5 @@
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);今天认真学习了吗？&center=true&size=27"> </a> </h1>
+
 ## Hi there 👋
 
 **THEO-1126/THEO-1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
