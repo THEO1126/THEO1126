@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning >>> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 
-- 🛠️ Commonly used tools...
+- ✏️ I plan to study >>> 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+
+- 🛠️ Commonly used tools >>> 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
@@ -33,11 +37,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 <!-- programming tool icon 编程工具图标 -->
 <!-- img -->
-<img src="[https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git](https://skillicons.dev/icons?i=ps,pr,c,cpp,twitter,mysql,instagram,idea,git,github,redis,vscode,java,javascript,html,css,spring" /><br>
+<img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,twitter,mysql,instagram,idea,git,github,redis,vscode,java,javascript,html,css,spring" />
 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: THEO
+- 😄 Pronouns: THEO 
 
 -------
 
@@ -64,7 +68,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
 
 <h3 align="center"> 📉 GitHub Readme Activity Graph </h3>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=THEO-1126&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THEO-1126&theme=github" /> </div>
 
 <h3 align="center">🎠 GitHub streak </h3>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEO-1126" /> </div>
