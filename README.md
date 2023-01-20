@@ -1,7 +1,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=今天认真学习了吗？🤖;今天认真学习了吗？🤖&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=今天认真学习了吗？🤖;今天认真学习了吗？🤖&center=true&size=30" />
   </a>
 </h1>
 
@@ -10,6 +10,16 @@
 **THEO-1126/THEO-1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="https://twitter.com/libbing1126/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
+  <a href="https://www.youtube.com/channel/UCyr4zlBlWvqN6MvgFyUEJvA"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/484908850/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=THEO-1126" alt="访客统计" />
+</div>
 
 - 🌱 I’m currently learning >>> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -45,16 +55,6 @@ Here are some ideas to get you started:
 
 -------
 
-<h3 align="center"> 🕛 WAKATIME </h3>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<h3 align="center"> ⚡Recent Activity </h3>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <h3 align="center"> 🎯 Metrics </h3>
 <div align="center"> <img src="https://metrics.lecoq.io/THEO-1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
@@ -67,10 +67,20 @@ Here are some ideas to get you started:
 <h3 align="center"> 🏅 Github Profile Trophy </h3>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
 
+<h3 align="center">🎠 GitHub streak </h3>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEO-1126" /> </div>
+
 <h3 align="center"> 📉 GitHub Readme Activity Graph </h3>
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THEO-1126&theme=github" /> </div>
 
-<h3 align="center">🎠 GitHub streak </h3>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEO-1126" /> </div>
+<h3 align="center"> 🕛 WAKATIME </h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h3 align="center"> ⚡Recent Activity </h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
