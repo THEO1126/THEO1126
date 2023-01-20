@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 **THEO-1126/THEO-1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 
 
-### WAKATIME
+## 🕛 WAKATIME
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## ⚡Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
