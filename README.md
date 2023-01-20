@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);今天认真学习了吗？&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天认真学习了吗？;这个世界由我来守护！&center=true&size=27"> </a> </h1>
 
 ## Hi there 👋
 
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+## 🎯 Metrics
+<div align="center"> <img src="https://metrics.lecoq.io/THEO-1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
