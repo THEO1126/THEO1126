@@ -21,7 +21,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning   ->>>   
+- 🌱 I’m currently learning   ->>> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 
-- ✏️ I plan to study   ->>>   
+- ✏️ I plan to study   ->>> 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 </div>
 
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+
+- 📫 How to reach me: <a href="mailto:libbing1126@gmail.com">libbing1126@gmail.com <img src="https://img.shields.io/badge/-email-blue?style=flat-square&logo=minutemailer"></a>
+
 - 😄 Pronouns: THEO 
 
 -------
