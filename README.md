@@ -5,12 +5,6 @@
   </a>
 </h1>
 
-## Hi there 👋
-
-**THEO-1126/THEO-1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://twitter.com/libbing1126/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
@@ -21,7 +15,13 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.glitch.me/badge?page_id=THEO-1126" alt="访客统计" />
 </div>
 
-- 🌱 I’m currently learning >>> 
+## Hi there 👋
+
+**THEO-1126/THEO-1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning   ->>>   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 
-- ✏️ I plan to study >>> 
+- ✏️ I plan to study   ->>>   
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 <!-- programming tool icon 编程工具图标 -->
 <!-- img -->
-<img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,twitter,mysql,instagram,idea,git,github,redis,vscode,java,javascript,html,css,spring" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,twitter,mysql,instagram,idea,git,github,redis,vscode,java,javascript,html,css,spring" />
+</div>
 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
