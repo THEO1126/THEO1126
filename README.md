@@ -79,14 +79,26 @@ Here are some ideas to get you started:
 <h3 align="center"> 📉 GitHub Readme Activity Graph </h3>
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THEO-1126&theme=github" /> </div>
 
-<h3 align="center"> 🕛 WAKATIME </h3>
+<h3 align="center"> 🕛 TIME </h3>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<table align>
+<tr>
+<td valign="top" width="50%">
 
-<h3 align="center"> ⚡Recent Activity </h3>
+<!-- waka-box start -->
+<!-- waka-box end -->
+[powered by waka-box](https://github.com/THEO-1126/waka-box)
+</td>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<td  width="50%">
+
+<!-- leetcode-box start -->
+<!-- leetcode-box end -->
+[powered by leetcode-box](https://github.com/THEO-1126/leetcode-box)
+</td>
+</tr>
+</table>
+
+
 
 
