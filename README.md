@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🕛 TIME </h3>
 
-<table align>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
@@ -162,17 +162,27 @@ Python                   1 repo              ██░░░░░░░░░�
 
  Last Updated on 29/01/2023 18:44:25 UTC
 <!--END_SECTION:waka-->
-[powered by waka-box](https://github.com/THEO-1126/waka-box)
-</td>
-
-<td  width="50%">
-
-<!-- leetcode-box start -->
-<!-- leetcode-box end -->
-[powered by leetcode-box](https://github.com/THEO-1126/leetcode-box)
 </td>
 </tr>
 </table>
+
+<h3 align="center"> 📝 LeetCode </h3>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://leetcode-stats-six.vercel.app/?username=THEO&CN&theme=dark" style="box-shadow:none">
+</td>
+<td width="50%">
+
+<img src="https://stats.justsong.cn/api/leetcode?username=THEO&cn=true&theme=dark" style="box-shadow:none">
+</td>
+</tr>
+</table>
+
+
+
 
 
 
