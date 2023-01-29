@@ -7,10 +7,10 @@
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
-  <a href="https://twitter.com/libbing1126/" target="_blank"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.facebook.com" target="_blank"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
-  <a href="https://www.youtube.com/channel/UCyr4zlBlWvqN6MvgFyUEJvA" target="_blank"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
-  <a href="https://space.bilibili.com/484908850/" target="_blank"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://twitter.com/libbing1126/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
+  <a href="https://www.youtube.com/channel/UCyr4zlBlWvqN6MvgFyUEJvA"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/484908850/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=THEO-1126" alt="访客统计" />
 </div>
