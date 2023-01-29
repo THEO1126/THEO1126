@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
 
-<!-- waka-box start -->
-<!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [powered by waka-box](https://github.com/THEO-1126/waka-box)
 </td>
 
