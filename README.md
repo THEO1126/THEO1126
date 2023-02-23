@@ -17,9 +17,7 @@
 
 ## Hi there 👋
 
-**THEO-1126/THEO-1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-*每件事到最后一定会变成一件好事，如果不是，说明还没有到最后*
+✨ _ *每件事到最后一定会变成一件好事，如果不是，说明还没有到最后* _ ✨
 
 - 🌱 I’m currently learning   ->>> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
