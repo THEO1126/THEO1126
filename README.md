@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/channel/UCyr4zlBlWvqN6MvgFyUEJvA"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/484908850/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=THEO-1126" alt="访客统计" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=THEO1126" alt="访客统计" />
 </div>
 
 ## Hi there 👋
@@ -58,21 +58,21 @@
 -------
 
 <h3 align="center"> 🎯 Metrics </h3>
-<div align="center"> <img src="https://metrics.lecoq.io/THEO-1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/THEO1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <h3 align="center"> 🔶GitHub Stats Card && 📝 Most used languages </h3>
 <!-- GitHub 数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=THEO-1126&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=THEO-1126&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=THEO1126&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=THEO1126&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 </div>
 
 <h3 align="center"> 🏅 Github Profile Trophy </h3>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=THEO-1126" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=THEO1126" /> </div>
 
 <h3 align="center">🎠 GitHub streak </h3>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEO-1126" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEO1126" /> </div>
 
 <h3 align="center"> 🕛 TIME </h3>
 
@@ -183,7 +183,7 @@ Python                   1 repo              ██░░░░░░░░░�
 </table>
 
 <h3 align="center"> 📉 GitHub Readme Activity Graph </h3>
-<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THEO-1126&theme=github" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THEO1126&theme=github" /> </div>
 
 
 
