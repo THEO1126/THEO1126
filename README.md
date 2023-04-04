@@ -11,8 +11,6 @@
   <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
   <a href="https://www.youtube.com/channel/UCyr4zlBlWvqN6MvgFyUEJvA"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/484908850/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=THEO1126" alt="访客统计" />
 </div>
 
 ## Hi there 👋
