@@ -55,8 +55,8 @@
 
 -------
 
-<h3 align="center"> 🎯 Metrics </h3>
-<div align="center"> <img src="https://metrics.lecoq.io/THEO1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
+//<h3 align="center"> 🎯 Metrics </h3>
+//<div align="center"> <img src="https://metrics.lecoq.io/THEO1126?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <h3 align="center"> 🔶GitHub Stats Card && 📝 Most used languages </h3>
 <!-- GitHub 数据统计 -->
