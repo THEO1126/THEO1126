@@ -167,8 +167,6 @@ Python                   1 repo              ██░░░░░░░░░�
 </tr>
 </table>
 
-<h3 align="center"> 📉 GitHub Readme Activity Graph </h3>
-<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=THEO1126&theme=github" /> </div>
 
 
 
